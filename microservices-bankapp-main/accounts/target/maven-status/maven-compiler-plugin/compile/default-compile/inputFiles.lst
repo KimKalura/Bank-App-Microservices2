@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\constants\AccountsConstants.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\dto\ErrorResponseDto.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\repository\CustomerRepository.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\controller\CustomerController.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\dto\ResponseDto.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\dto\CustomerDto.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\entity\Customer.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\service\client\CardsFeignClient.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\dto\AccountsContactInfoDto.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\AccountsApplication.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\service\CustomerService.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\dto\CardsDto.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\dto\LoansDto.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\service\client\CardsFallback.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\dto\AccountsDto.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\entity\Account.java
+C:\Users\hp\Desktop\CURS JAVA\bankapp-microservices-main\accounts\src\main\java\com\microservices\accounts\dto\CustomerDetailsDto.java
